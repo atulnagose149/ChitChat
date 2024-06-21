@@ -1,5 +1,5 @@
 {
-	"name": "chat-app-yt",
+	"name": "chitChat",
 	"version": "1.0.0",
 	"description": "",
 	"main": "server.js",
@@ -10,7 +10,7 @@
 	},
 	"type": "module",
 	"keywords": [],
-	"author": "",
+	"author": "Atul Nagose",
 	"license": "ISC",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
